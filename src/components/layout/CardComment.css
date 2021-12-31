@@ -1,0 +1,7 @@
+.CardComment{
+    display: flex;
+    flex-direction: row;
+    background-color: var(--white);
+    padding: 20px;
+    border-radius: 5px;
+}
